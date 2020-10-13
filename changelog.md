@@ -35,6 +35,7 @@
 ! Changed Red Energy Movesets
 ! Changed Flame Movesets 
 ! Changed Rarities -> Tiers
+! Changed Max Speed [inf -> 98]
 
 @@ Coming Soon: Keybinding System @@
 @@ Coming Soon: New Mobile Controls @@

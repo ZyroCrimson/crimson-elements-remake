@@ -29,8 +29,8 @@
 - Removed Blue Energy
 - Removed Admin Panel (working on a new one)
 
-! Changed Max Level (old 10K, new 5K) 
-! Changed Max Stats (old 30k, new 15k)
+! Changed Max Level [10K -> 5K)]
+! Changed Max Stats [30k -> 15k]
 ! Changed Red Energy Movesets
 ! Changed Flame Movesets 
 ! Changed Rarities -> Tiers

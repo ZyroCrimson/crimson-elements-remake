@@ -32,5 +32,5 @@
 ! Changed Max Stats (old 30k, new 15k)
 ! Changed Red Energy Movesets
 ! Changed Flame Movesets 
-! Changed Tier
+! Changed Rarities -> Tiers
 ```

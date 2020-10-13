@@ -48,7 +48,8 @@
 + Fixed Client-Server communication
 + Added Blocking System
 + Added Animation Yield System
-+ Added Feature to flame (changes color when you're at a certain level) 
++ Added New Feature to flame
++ Added Element-Removing weapon
 
 ! Changed Core Module Particle System
 ```

@@ -1,5 +1,5 @@
 <h1>Changelogs</h1>
-<p>This page offers the latest updates to <a href="www.roblox.com/games/5737289265/Crimson-Elements-REMAKE">crimson elements</a>.</p>
+<p>This page offers the latest updates to <a href="https://www.roblox.com/games/5737289265/Crimson-Elements-REMAKE">crimson elements</a>.</p>
 <h2><b>Update 2020/9/30 v0.00</b></h2>
 
 ```diff

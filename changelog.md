@@ -3,7 +3,7 @@
 <h2><b>Update 2020/9/30 v0.00</b></h2>
 
 ```diff
-+ Added New Leveling System 
++ Added New Leveling System
 + Added New DataSaving System 
 + Added New Spinning System 
 + Added New NameTag System 
@@ -27,6 +27,7 @@
 - Removed Normality 
 - Removed Rock (from the spinner) 
 - Removed Blue Energy
+- Removed Admin Panel (working on a new one)
 
 ! Changed Max Level (old 10K, new 5K) 
 ! Changed Max Stats (old 30k, new 15k)

@@ -19,6 +19,7 @@
 + Added Asteroid 
 + Added New Gui 
 + Added Element Balancing System 
++ Added Currency System
  
 - Removed Exasperation 
 - Removed Old Map (current map is just a baseplate) 

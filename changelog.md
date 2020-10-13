@@ -50,6 +50,7 @@
 + Added Animation Yield System
 + Added New Feature to flame
 + Added Element-Removing weapon
++ Added FPS Counter
 
 ! Changed Core Module Particle System
 ```

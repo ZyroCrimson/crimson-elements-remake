@@ -41,3 +41,14 @@
 @@ Coming Soon: New Mobile Controls @@
 @@ Coming Soon: Multiplayer Battles (something like a tournament) @@
 ```
+
+<h2><b>Update 2020/10/13 v0.01</b></h2>
+
+```diff
++ Fixed Client-Server communication
++ Added Blocking System
++ Added Animation Yield System
++ Added Feature to flame (changes color when you're at a certain level) 
+
+! Changed Core Module Particle System
+```

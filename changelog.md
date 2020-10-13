@@ -29,9 +29,13 @@
 - Removed Blue Energy
 - Removed Admin Panel (working on a new one)
 
-! Changed Max Level [10K -> 5K)]
+! Changed Max Level [10K -> 5K]
 ! Changed Max Stats [30k -> 15k]
 ! Changed Red Energy Movesets
 ! Changed Flame Movesets 
 ! Changed Rarities -> Tiers
+
+@@ Coming Soon: Keybinding System @@
+@@ Coming Soon: New Mobile Controls @@
+@@ Coming Soon: Multiplayer Battles (something like a tournament) @@
 ```

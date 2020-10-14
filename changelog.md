@@ -60,4 +60,5 @@
 ```diff
 + Fixed Skills Page and add summaries for when your mouse hovers over them
 + Added the required amount of stats to use a skill on skill page
++ Added Debounce feature to prevent spamming. (Exploiters may be able to by pass this however)
 ```

@@ -54,3 +54,10 @@
 
 ! Changed Core Module Particle System
 ```
+
+<h2><b>Update 2020/10/14 v0.02</b></h2>
+
+```diff
++ Fixed Skills Page and add summaries for when your mouse hovers over them
++ Added the required amount of stats to use a skill on skill page
+```

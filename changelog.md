@@ -68,6 +68,6 @@
 ```diff
 - Removed old element client manager script
 
-! Creating new script to manager user input
+! Creating new script to manage user input
 # The old script would work globally meaning if someone had red energy and used a move that became disabled for a short time, everyone who has red energy in that server would be affected
 ```

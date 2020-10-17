@@ -62,3 +62,12 @@
 + Added the required amount of stats to use a skill on skill page
 + Added Debounce feature to prevent spamming. (Exploiters may be able to by pass this however)
 ```
+
+<h2><b>Update 2020/10/17 v0.03</b></h2>
+
+```diff
+- Removed old element client manager script
+
+! Creating new script to manager user input
+# The old script would work globally meaning if someone had red energy and used a move that became disabled for a short time, everyone who has red energy in that server would be affected
+```
